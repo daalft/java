@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+<w id="2.1" pos="II" sem="Z5">From</w> <w id="2.2" pos="AT" sem="Z5">the</w> 
+<w id="2.3" pos="JJT" sem="N4">earliest</w> 
+<w id="2.4" pos="NNT2" sem="T1.3">days</w> <w id="2.5" pos="IO" sem="Z5">of</w> 
+<w id="2.6" pos="NN1" sem="I1.3+/A2.1">markup</w> 
+<w id="2.7" pos="NN2" sem="Q3">languages</w> 
+<w id="2.8" pos="," sem="PUNC">,</w> 
+<w id="2.9" pos="NN1" sem="Q2.2">reference</w> 
+<w id="2.10" pos="VVG" sem="Q1.2">tagging</w> 
+<w id="2.11" pos="II" sem="Z5">in</w> 
+<w id="2.12" pos="JJ" sem="P1">scholarly</w> 
+<w id="2.13" pos="NN2" sem="Q4">publications</w> 
+<w id="2.14" pos="VHZ" sem="Z5">has</w> 
+<w id="2.15" pos="VVN" sem="A9-">presented</w> 
+<w id="2.16" pos="JJ" sem="N5---">unique</w> 
+<w id="2.17" pos="NN2" sem="A12-">challenges</w> 
+<w id="2.18" pos="." sem="PUNC">.</w> 
+<w id="3.1" pos="NN2" sem="Q2.2">References</w> 
+<w id="3.2" pos="II" sem="Z5">to</w> 
+<w id="3.3" pos="NN2" sem="Q4.2">journals</w> 
+<w id="3.4" pos="VBR" sem="A3+">are</w> 
+<w id="3.5" pos="RR" sem="A13/A6">relatively</w> 
+<w id="3.6" pos="JJ" sem="A12+">easy</w> <w id="3.7" pos="TO" sem="Z5">to</w> 
+<w id="3.8" pos="VVI" sem="Q1.2">tag</w> <w id="3.9" pos="," sem="PUNC">,</w> 
+<w id="3.10" pos="RR" sem="N6-">once</w> <w id="3.11" pos="AT1" sem="Z5">a</w> 
+<w id="3.12" pos="NN1" sem="Q4.1/S2mf">publisher</w> 
+<w id="3.13" pos="VHZ" sem="Z5">has</w> 
+<w id="3.14" pos="VVN" sem="M8">settled</w> 
+<w id="3.15" pos="II" sem="Z5">on</w> <w id="3.16" pos="AT1" sem="Z5">a</w> 
+<w id="3.17" pos="JJ" sem="A6.1+">consistent</w> 
+<w id="3.18" pos="NN1" sem="O4.1">structure</w> 
+<w id="3.19" pos="REX21" sem="Z5[i1.2.1">for</w> 
+<w id="3.20" pos="REX22" sem="Z5[i1.2.2">example</w> 
+<w id="3.21" pos="," sem="PUNC">,</w> <w id="3.22" pos="IW" sem="Z5">with</w> 
+<w id="3.23" pos="CC" sem="Z5">or</w> <w id="3.24" pos="IW" sem="Z5">without</w> 
+<w id="3.25" pos="AT" sem="Z5">the</w> 
+<w id="3.26" pos="JJ" sem="A1.7-">loose</w> 
+<w id="3.27" pos="NN1" sem="Q1.2">text</w> 
+<w id="3.28" pos="CC" sem="Z5">and</w> 
+<w id="3.29" pos="NN1" sem="Q3">punctuation</w> 
+<w id="3.30" pos="II" sem="Z5">between</w> 
+<w id="3.31" pos="NN2" sem="A4.1">elements</w> 
+<w id="3.32" pos="." sem="PUNC">.</w> 
+<w id="4.1" pos="NN2" sem="Q2.2">References</w> 
+<w id="4.2" pos="II" sem="Z5">to</w> 
+<w id="4.3" pos="JJ" sem="Z99">non-journal</w> 
+<w id="4.4" pos="NN1" sem="Q2.1">content</w> 
+<w id="4.5" pos="II21" sem="Z5[i2.2.1">such</w> 
+<w id="4.6" pos="II22" sem="Z5[i2.2.2">as</w> 
+<w id="4.7" pos="NN2" sem="Q4.1">books</w> <w id="4.8" pos="," sem="PUNC">,</w> 
+<w id="4.9" pos="NN1" sem="S1.1.3+">conference</w> 
+<w id="4.10" pos="NN2" sem="A1.1.1">proceedings</w> 
+<w id="4.11" pos="," sem="PUNC">,</w> <w id="4.12" pos="CC" sem="Z5">and</w> 
+<w id="4.13" pos="JJ" sem="O4.3">gray</w> 
+<w id="4.14" pos="NN1" sem="Q4.1">literature</w> 
+<w id="4.15" pos="," sem="PUNC">,</w> <w id="4.16" pos="RR" sem="Z4">however</w> 
+<w id="4.17" pos="," sem="PUNC">,</w> <w id="4.18" pos="VM" sem="A7+">can</w> 
+<w id="4.19" pos="VVI" sem="A9-">present</w> 
+<w id="4.20" pos="JJ" sem="X2.6-">unexpected</w> 
+<w id="4.21" pos="CC" sem="Z5">or</w> 
+<w id="4.22" pos="JJ" sem="A12-">awkward</w> 
+<w id="4.23" pos="NN2" sem="A3+">situations</w> 
+<w id="4.24" pos="," sem="PUNC">,</w> <w id="4.25" pos="CC" sem="Z5">and</w> 
+<w id="4.26" pos="RR" sem="A13.1">even</w> 
+<w id="4.27" pos="NN1" sem="Q4.2">journal</w> 
+<w id="4.28" pos="NN2" sem="Q2.2">references</w> 
+<w id="4.29" pos="VM" sem="A7+">can</w> 
+<w id="4.30" pos="RR" sem="N6-">occasionally</w> 
+<w id="4.31" pos="VVI" sem="A5.2+">prove</w> 
+<w id="4.32" pos="JJ" sem="A6.2-">idiosyncratic</w> 
+<w id="4.33" pos="." sem="PUNC">.</w> 
+<w id="5.1" pos="DD1" sem="M6">This</w> 
+<w id="5.2" pos="NN1" sem="Q4.2c">paper</w> 
+<w id="5.3" pos="VM" sem="T1.1.3">will</w> 
+<w id="5.4" pos="VVI" sem="A9-">provide</w> <w id="5.5" pos="AT1" sem="Z5">a</w> 
+<w id="5.6" pos="JJ" sem="T1.3-">brief</w> 
+<w id="5.7" pos="NN1" sem="T1.1.1">history</w> 
+<w id="5.8" pos="IO" sem="Z5">of</w> 
+<w id="5.9" pos="NN1" sem="Q2.2">reference</w> 
+<w id="5.10" pos="VVG" sem="Q1.2">tagging</w> 
+<w id="5.11" pos="II" sem="Z5">in</w> 
+<w id="5.12" pos="NP1" sem="A6.2+">SGML</w> 
+<w id="5.13" pos="CC" sem="Z5">and</w> <w id="5.14" pos="NP1" sem="Y2">XML</w> 
+<w id="5.15" pos="CC" sem="Z5">and</w> 
+<w id="5.16" pos="VM" sem="T1.1.3">will</w> 
+<w id="5.17" pos="VVI" sem="Q2.1">discuss</w> 
+<w id="5.18" pos="JJ" sem="A4.2+">specific</w> 
+<w id="5.19" pos="NN1" sem="Q2.2">reference</w> 
+<w id="5.20" pos="NN1" sem="I1.3+/A2.1">markup</w> 
+<w id="5.21" pos="NN2" sem="O4.1">structures</w> 
+<w id="5.22" pos="II" sem="Z5">in</w> <w id="5.23" pos="AT" sem="Z5">the</w> 
+<w id="5.24" pos="NN1" sem="Q4.2">Journal</w> 
+<w id="5.25" pos="NN1" sem="Q4.2">Article</w> 
+<w id="5.26" pos="NN1" sem="Q1.2">Tag</w> 
+<w id="5.27" pos="NN1" sem="H2">Suite</w> <w id="5.28" pos="(" sem="PUNC">(</w> 
+<w id="5.29" pos="NP2" sem="S2mfc">JATS</w> 
+<w id="5.30" pos=")" sem="PUNC">)</w> <w id="5.31" pos="," sem="PUNC">,</w> 
+<w id="5.32" pos="II" sem="Z5">from</w> <w id="5.33" pos="AT" sem="Z5">the</w> 
+<w id="5.34" pos="JJ" sem="A6.2+">common</w> 
+<w id="5.35" pos="II" sem="Z5">to</w> <w id="5.36" pos="AT" sem="Z5">the</w> 
+<w id="5.37" pos="JJ" sem="A6.2-">arcane</w> 
+<w id="5.38" pos="." sem="PUNC">.</w> 
+</text>

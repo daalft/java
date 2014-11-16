@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<content>
+	<person>
+		<name>
+			D
+		</name>
+		<age>
+			26
+		</age>
+		<note/>
+	</person>
+	<person>
+		<name type="full">
+			Li Peng
+		</name>
+		<age>
+			20
+		</age>
+		<note>
+			Notiz
+		</note>
+	</person>
+	<person>
+		<name>
+			Bernd
+		</name>
+		<age>
+			23
+		</age>
+		<note/>
+	</person>
+	<person>
+		<name>
+			Fabiane
+		</name>
+		<age>
+			24
+		</age>
+		<note/>
+	</person>
+</content>
