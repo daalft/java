@@ -61,12 +61,27 @@ Folgende Wiederholungen haben auch eine Kurzschreibweise:
 <li><code>{0,}</code> ==> <code>*</code>
 </ul>
 
-Die Wiederholung wird immer hinter das Element geschrieben, auf das sie sich bezieht:
+Die Wiederholung wird immer hinter das Element geschrieben, auf das sie sich bezieht:<br/>
 <code>a{2}</code> ==> aa<br/>
-<code>[nmf]{2,4}</code> ==> 2 bis 4 Zeichen aus der Charakterklasse
+<code>[nmf]{2,4}</code> ==> 2 bis 4 Zeichen aus der Charakterklasse <code>[nmf]</code>
 </p>
 
 <p>
 <h3>Optionalität</h3>
-Wir können 
+Wir können die Optionalität auf zwei Arten schreiben:
+<ul>
+<li><code>{0,1}</code>
+<li><code>?</code>
+
+Wie die Wiederholung bezieht sich die Optionalität immer auf das voranstehende Element
+</p>
+
+<p>
+<h3>Gierige Quantoren</h3>
+Die Quantoren (Wiederholungsoperatoren) <code>+</code> und <code>*</code> sind standardmässig 'gierig', das heisst es wird vom ersten gefundenen Zeichen bis zum letzten gefundenen Zeichen gesucht. Um die Quantoren in den trägen Suchmodus zu versetzen (vom ersten gefundenen Zeichen bis zum nächsten) wird ein <code>?</code> an den Operator gehängt:<br/><code>a+?</code>
+</p>
+
+<p>
+<h3>Gruppenbildung</h3>
+Gruppen werden mittels runder Klammern gebildet. Auf diese Gruppen können wir später zurückgreifen. Die Gruppennummerierung fängt bei 1 an. Gruppe 0 bildet den gesamten gefundenen Ausdruck.
 </p>
