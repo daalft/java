@@ -1,7 +1,7 @@
 <h1>Zusammenfassung Reguläre Ausdrücke</h1>
 
 <h2>Seite zum Testen von regulären Ausdrücken:<a href="rubular.com">rubular.com</a></h2>
-
+<h2>Weitere Informationen zu regulären Ausdrücken:<a href="http://www.regular-expressions.info">www.regular-expressions.info</a></h2>
 <p>
 <h3>Wortwörtliche Suche:</h3> Zeichen stehen für sich selbst, Zeichen werden gefunden wie eingegeben, <b>ausser</b><br/>
 <code>$ ( ) * + . ? [ \ ^ { |</code>
