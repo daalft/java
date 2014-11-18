@@ -72,7 +72,7 @@ Wir können die Optionalität auf zwei Arten schreiben:
 <ul>
 <li><code>{0,1}</code>
 <li><code>?</code>
-
+</ul>
 Wie die Wiederholung bezieht sich die Optionalität immer auf das voranstehende Element
 </p>
 
