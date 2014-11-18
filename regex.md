@@ -1,7 +1,7 @@
 <h1>Zusammenfassung Reguläre Ausdrücke</h1>
 
 <h2>Seite zum Testen von regulären Ausdrücken:<a href="rubular.com">rubular.com</a></h2>
-<h2>Weitere Informationen zu regulären Ausdrücken:<a href="http://www.regular-expressions.info">www.regular-expressions.info</a></h2>
+<h3>Weitere Informationen zu regulären Ausdrücken:<a href="http://www.regular-expressions.info">www.regular-expressions.info</a></h3>
 <p>
 <h3>Wortwörtliche Suche:</h3> Zeichen stehen für sich selbst, Zeichen werden gefunden wie eingegeben, <b>ausser</b><br/>
 <code>$ ( ) * + . ? [ \ ^ { |</code>
@@ -17,6 +17,8 @@ Folgende Zeichen haben nur in bestimmten Kontexten eine besondere Funktion:<br/>
 <h3>Charakterklassen:</h3> <b>Ein</b> Zeichen aus den angegebenen Zeichen<br/><br/>
 <code>[abc]</code> findet <b>entweder</b> a <b>oder</b> b <b>oder</b> c<br/> 
 <code>[abc]+</code> findet eine Zeichenkette aus einer beliebigen Aneinanderreihung von a,b und c (z.B. aabacaabbbbcccaaabb)<br/>
+
+<i>Innerhalb einer Charakterklasse verlieren viele Sonderzeichen ihre besondere Bedeutung. Nur folgende Zeichen behalten eine besondere Bedeutung: <code>[ - ^ \ ]</code></i>
 </p>
 <p>
 <h3>Spezielle Charakterklassen:</h3>
